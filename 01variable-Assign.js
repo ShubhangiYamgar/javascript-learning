@@ -1,0 +1,10 @@
+var city="Pune";
+console.log("city: ",city);
+var  friend ="Shitl";
+console.log("Best friend: ",friend);
+var country ="India";
+console.log("Country Name: ",country);
+var school ="SMSMPITR";
+console.log("School Name: ",school);
+var college ="SMSMPITR";
+console.log("College Name: ",college);
