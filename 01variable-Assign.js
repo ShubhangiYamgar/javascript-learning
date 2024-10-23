@@ -1,6 +1,6 @@
 var city="Pune";
 console.log("city: ",city);
-var  friend ="Shitl";
+var  friend ="Shital";
 console.log("Best friend: ",friend);
 var country ="India";
 console.log("Country Name: ",country);
