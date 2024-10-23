@@ -1,61 +1,25 @@
-// Primitive DT - Which can store only one value
+var myFullName;
+console.log("Full Name: Shubhangi Changdev Yamgar");
 
-// String, Number, Boolean
+myFullName="Shubhangi Yamgar";
+console.log("First and Last Name: ",myFullName);
 
-var fullName = "Stew Jobs";
+firstName="Shubhangi";
+console.log("First Name:  ",firstName);
 
-console.log("Full name: ", fullName);
+middleName="Changdev";
+console.log("Middle Name: ",middleName);
 
-var typeOfFullName = typeof fullName;
+lastName="Yamgar";
+console.log("Last Name:  ",lastName);
 
-console.log("Type of variable fullName is: ", typeOfFullName);
+var myLove="I Love only JS";
+console.log("Language:  ",myLove);
 
- 
-
-var age = 33;
-
-console.log("Age : ", age, " type of age is : ", typeof age );
-
- 
-
-var totalMoney = 40000000;
-
-var weight = 78.9;
-
-var height = "6ft";
-
-console.log("Height : ", height, " type of height is : ", typeof height );
-
- 
-
-var isMarried = true;
-
-console.log("isMarried : ", isMarried, " type of isMarried is : ", typeof isMarried );
-
- 
-
-var isFresher = false;
-
-console.log("isFresher : ", isFresher, " type of isFresher is : ", typeof isFresher );
-
- 
-
-console.log("==========================================");
-
- 
-
-// Special DT
-
-var totalExp;
-
-console.log("totalExp : ", totalExp, " type of totalExp is : ", typeof totalExp );
-
- 
-
-var skill = null;
-
-console.log("skill : ", skill, " type of skill is : ", typeof skill );
-
- 
-
-// Non-primitive or Reference or Composite DT
+console.log("First Name:",fn="Shubhangi");
+console.log("Last Name:",ln="Yamgar");
+console.log("Age:",age=24);
+console.log("Address:",address="Pune");
+console.log("Pincode:",pincode=411062);
+console.log("Gender:",gender="Female");
+console.log("Married:",married=true);
