@@ -1,3 +1,4 @@
+// Variable: Is a container to store a value
 // Variable Declaration
 var city; 
 console.log("city: ", city); // undefined

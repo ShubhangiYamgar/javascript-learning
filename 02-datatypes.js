@@ -58,4 +58,4 @@ console.log("skill : ", skill, " type of skill is : ", typeof skill );
 
  
 
-// Non-primitive or Reference or Composite DT
+// Non-primitive or Reference or Composite DT : it stored multiple values
