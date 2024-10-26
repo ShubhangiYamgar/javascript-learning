@@ -9,7 +9,6 @@ var resValue=res.split(" ");
 console.log(`5.Total Words: ${resValue.length}`);
 var resultValue=res.indexOf("good");
 console.log(`6.Index of good is: ${resultValue}`);
-
 var res7=res.substring(22);
 console.log(`7.Substring of index 22: ${res7}`);
 console.log(`8.String ends with word "up" is: ${res.endsWith("up")}`);
