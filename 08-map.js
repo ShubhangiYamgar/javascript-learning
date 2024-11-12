@@ -13,3 +13,4 @@ console.log(`Value for the Key 44 is : ${myMap.get(44)}`);
 
 console.log(`Delete the entry : ${myMap.delete(33)}`);
 console.log(myMap);
+
