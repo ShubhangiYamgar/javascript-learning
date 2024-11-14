@@ -25,7 +25,7 @@ professor.city="Mumbai";
 console.log(professor);
 
 console.log("=====================7.Add one new Certificate -> Oracle Certified at the 2nd index of array ===================");
- professor.certificates.splice( 1,0," Oracle Certified")
+ professor.certificates.splice( 2,0," Oracle Certified");
 const  arrayProf= professor.certificates;
 console.log("Professor Certificates::");
 for (const element of arrayProf) {
